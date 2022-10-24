@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Leva mais tempo para ordenar os numeros
+
+sort2 uses: merge sort
+
+How do you know?: Consegue ordenar os numeros mais rapidos
+
+sort3 uses: selection sort
+
+How do you know?: Esse é um pouco mais rapido que o sort1 e mais devagar que o sort2

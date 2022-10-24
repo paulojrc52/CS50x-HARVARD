@@ -1,0 +1,1 @@
+wget https://cdn.cs50.net/2021/fall/labs/5/inheritance.zip
